@@ -141,7 +141,6 @@ ros2 topic echo /traffic_sign
 ## 👩‍💻 Authors
 
 **Priyanka R, Rithvika Janani A, Rachana S,  Yuktha Pawar B**
-GitHub: https://github.com/pryu24
 
 ---
 
