@@ -27,8 +27,8 @@ traffic_sign_project/
  │    │    ├── detector.py
  │    │    ├── final_model.h5
  │    │    └── ...
- │    ├── traffic_sign_recognition/
- │    │    └── predictor_node.py
+ │    
+ │    
  │
  ├── test_images/
  ├── labels.csv
